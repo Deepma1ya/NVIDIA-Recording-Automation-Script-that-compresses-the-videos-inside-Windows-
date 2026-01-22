@@ -13,6 +13,7 @@ and copy the "launch_handbrake_hidden.vbs" there
 
 open the handbrake folder and edit the "add_video_compressor_startup.reg" if you need
 
+make sure to paste the video recording folder in the script under the configuration. It will detect the sub folders no issue for that
 
 for notification install this in power shell - 
 
