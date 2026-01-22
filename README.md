@@ -2,7 +2,7 @@
 A Windows Batch automation script that processes NVIDIA ShadowPlay / GeForce Experience / Nvidia App recordings using HandBrakeCLI.  This script is written and maintained by me, while HandBrakeCLI is a third-party tool and full credit goes to its original developers.
 
 
-#✨ What This Script Does
+✨ What This Script Does
 
 📂 Automates processing of NVIDIA recordings
 
